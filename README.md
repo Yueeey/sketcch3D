@@ -44,5 +44,5 @@ Most of our experiments are conducted on the modelsfrom a chair category of the 
 
 We show an improved performance of deep image modeling.
 
-<img src="img/img.pdf" width="700">
+<img src="img/img.png" width="1400">
 
