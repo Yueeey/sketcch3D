@@ -1,4 +1,4 @@
-# Deep Sketch-Based Modeling: Tips and Tricks 
+# Towards Practical Sketch-Based 3D Shape Generation.
 
 ## Contents
 
